@@ -7,7 +7,7 @@ I am a photographer and also an IOS application developer.
 Interested in working as a developer where i can use experience and skills to create quality applications.
 
 ### Technologies
-[![My Skills](https://skillicons.dev/icons?i=swift,figma,firebase&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,firebase,figma&perline=3)](https://skillicons.dev)
 <div align="left">  
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
