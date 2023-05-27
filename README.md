@@ -10,10 +10,9 @@ Application for business process optimization
 SwitUI, Combine
 
 ## Skills
-- SwiftUI, Combine, MVVM
-- SOLID, DRY, KISS
-- Firebase, CoreData, UserDefaults
-- Foundation, AVKit, MapKit, PhotosUI, CoreLocation, UserNotifications (Local only)
+- SwiftUI, MVVM
+- Firebase, UserDefaults
+- Foundation, AVKit, MapKit, PhotosUI, UserNotifications (Local only)
 - URLSession, FileManager, JSON, async/await, GCD
 - UIKit (Storyboard, code) - few months of learning, switched back to SwiftUI
 - Git, GitHub
@@ -23,14 +22,14 @@ SwitUI, Combine
 ### Just Icons :)
 [![My Skills](https://skillicons.dev/icons?i=swift,firebase,figma,aftereffects&perline=4)](https://skillicons.dev)
 
-### My Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsm5e)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Courses/books
 - [100 days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
 - [100 days of Swift (UIKit)](https://www.hackingwithswift.com/100)
 - [Mastering SwiftUI (iOS 15) by AppCoda](https://www.appcoda.com/swiftui/)
 - [Ian Solomein SwiftUI Basics](https://www.youtube.com/playlist?list=PLUb9K99oQb2t7TIFVQbht6KxWvJApvRu4)
+
+### My Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsm5e)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact With Me
 <div class="image-row">
