@@ -6,7 +6,7 @@
 ### [SPIN4SPIN](https://spin4spin.com/) - 19.11.22-present
 #### iOS Developer, Part-time, Remote
 Application for business process optimization
-#### Tech Stack
+#### Stack
 SwitUI, Combine
 
 ## Skills
