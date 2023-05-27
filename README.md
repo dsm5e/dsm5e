@@ -1,18 +1,13 @@
 ## Hello👋, my name is Vladislav
-### And i'm Junior IOS Developer 🐼
-
-## About Me 
-- I am a photographer and also an IOS app developer.
+### And i am a Photographer and also Junior IOS Developer 🐼
 - Interested in work as a developer where i can use experience and skills to create apps.
 
-
 ## Work experience
-### [SPIN4SPIN](https://spin4spin.com/) - 23.01.22-present
+### [SPIN4SPIN](https://spin4spin.com/) - 19.11.22-present
 #### iOS Developer, Part-time, Remote
 Application for business process optimization
 #### Tech Stack
 SwitUI, Combine
-
 
 ## Skills
 - SwiftUI, Combine, MVVM
@@ -25,10 +20,8 @@ SwitUI, Combine
 - Trello, Notion, Figma
 - English Intermediate B1
 
-
 ### Just Icons :)
 [![My Skills](https://skillicons.dev/icons?i=swift,firebase,figma,aftereffects&perline=4)](https://skillicons.dev)
-
 
 ### My Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsm5e)](https://github.com/anuraghazra/github-readme-stats)
