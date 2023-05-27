@@ -24,7 +24,6 @@ SwitUI, Combine
 ### Courses/books
 - [100 days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
 - [100 days of Swift (UIKit)](https://www.hackingwithswift.com/100)
-- [Mastering SwiftUI (iOS 15) by AppCoda](https://www.appcoda.com/swiftui/)
 - [Ian Solomein SwiftUI Basics](https://www.youtube.com/playlist?list=PLUb9K99oQb2t7TIFVQbht6KxWvJApvRu4)
 
 ### My Stats
