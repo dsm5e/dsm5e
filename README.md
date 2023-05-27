@@ -7,7 +7,8 @@
 #### iOS Developer, Part-time, Remote
 Application for business process optimization
 #### Stack
-SwitUI, Combine
+ - SwitUI
+ - Combine
 
 ## Skills
 - SwiftUI, MVVM
