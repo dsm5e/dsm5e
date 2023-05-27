@@ -1,8 +1,7 @@
 ## Hello👋, my name is Vladislav
-
 ### And i'm Junior IOS Developer 🐼
 
-## About me 
+### About me 
 
 I am a photographer and also an IOS application developer. 
 Interested in working as a developer where you can use your experience and skills to create quality applications.
