@@ -3,7 +3,7 @@
 
 ### About me 
 
-I am a photographer and also an IOS application developer. 
+I am a photographer and also an IOS app developer. 
 Interested in working as a developer where i can use experience and skills to create quality applications.
 
 ### Technologies
