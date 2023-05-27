@@ -1,20 +1,44 @@
 ## Hello👋, my name is Vladislav
 ### And i'm Junior IOS Developer 🐼
 
-### About Me 
+## About Me 
 
-I am a photographer and also an IOS app developer. 
-Interested in working as a developer where i can use experience and skills to create quality applications.
+-I am a photographer and also an IOS app developer. 
+-Interested in working as a developer where i can use experience and skills to create quality applications.
 
-### My Skills
-[![My Skills](https://skillicons.dev/icons?i=swift,firebase,figma&perline=3)](https://skillicons.dev)
-<div align="left">  
-<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
-</div>
+
+## Work experience
+### [SPIN4SPIN](https://spin4spin.com/) - 23.01.22-present
+#### iOS Developer, Part-time, Remote
+Application for business process optimization
+#### Tech Stack
+SwitUI, Combine
+
+
+## Skills
+- SwiftUI, Combine, MVVM
+- SOLID, DRY, KISS
+- Firebase, CoreData, UserDefaults
+- Foundation, AVKit, MapKit, PhotosUI, CoreLocation, UserNotifications (Local only)
+- URLSession, FileManager, JSON, async/await, GCD
+- UIKit (Storyboard, code) - few months of learning, switched back to SwiftUI
+- Git, GitHub
+- Trello, Notion, Figma
+- English Intermediate B1
+
+
+### Just Icons :)
+[![My Skills](https://skillicons.dev/icons?i=swift,firebase,figma,aftereffects&perline=4)](https://skillicons.dev)
+
 
 ### My Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsm5e)](https://github.com/anuraghazra/github-readme-stats)
+
+### Courses/books
+- [100 days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
+- [100 days of Swift (UIKit)](https://www.hackingwithswift.com/100)
+- [Mastering SwiftUI (iOS 15) by AppCoda](https://www.appcoda.com/swiftui/)
+- [Ian Solomein SwiftUI Basics](https://www.youtube.com/playlist?list=PLUb9K99oQb2t7TIFVQbht6KxWvJApvRu4)
 
 ### Contact With Me
 <div class="image-row">
