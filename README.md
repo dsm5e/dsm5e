@@ -1,12 +1,12 @@
 ## Hello👋, my name is Vladislav
 ### And i'm Junior IOS Developer 🐼
 
-### About me 
+### About Me 
 
 I am a photographer and also an IOS app developer. 
 Interested in working as a developer where i can use experience and skills to create quality applications.
 
-### Technologies
+### My Skills
 [![My Skills](https://skillicons.dev/icons?i=swift,firebase,figma&perline=3)](https://skillicons.dev)
 <div align="left">  
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
@@ -16,7 +16,7 @@ Interested in working as a developer where i can use experience and skills to cr
 ### My Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsm5e)](https://github.com/anuraghazra/github-readme-stats)
 
-### Contact with me
+### Contact With Me
 <div class="image-row">
   <a href="mailto:dsm5e@icloud.com">
     <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" />
