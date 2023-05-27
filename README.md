@@ -19,7 +19,6 @@ SwitUI, Combine
 - Trello, Notion, Figma
 - English Intermediate B1
 
-### Just Icons :)
 [![My Skills](https://skillicons.dev/icons?i=swift,firebase,figma,aftereffects&perline=4)](https://skillicons.dev)
 
 ### Courses/books
