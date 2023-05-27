@@ -2,9 +2,8 @@
 ### And i'm Junior IOS Developer 🐼
 
 ## About Me 
-
--I am a photographer and also an IOS app developer. 
--Interested in working as a developer where i can use experience and skills to create quality applications.
+- I am a photographer and also an IOS app developer.
+- Interested in work as a developer where i can use experience and skills to create apps.
 
 
 ## Work experience
