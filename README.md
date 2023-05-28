@@ -1,6 +1,7 @@
 ## Hello👋, my name is Vladislav
 ### And i am a Photographer and also Junior IOS Developer 🐼
 - Interested in work as a developer where i can use experience and skills to create apps.
+- work hard play hard.
 
 ## Work experience
 ### [SPIN4SPIN](https://spin4spin.com/) - 19.11.22-present
@@ -11,14 +12,6 @@ Application for business process optimization
  - Combine
 
 ## Skills
-- SwiftUI, MVVM
-- Firebase, UserDefaults
-- Foundation, AVKit, MapKit, PhotosUI, UserNotifications (Local only)
-- URLSession, FileManager, JSON, async/await, GCD
-- UIKit (Storyboard, code) - few months of learning, switched back to SwiftUI
-- Git, GitHub
-- Trello, Notion, Figma
-- English Intermediate B1
 
 [![My Skills](https://skillicons.dev/icons?i=swift,firebase,figma,aftereffects&perline=4)](https://skillicons.dev)
 
