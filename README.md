@@ -31,6 +31,10 @@ Application for business process optimization
 ### My Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsm5e)](https://github.com/anuraghazra/github-readme-stats)
 
+![Codewars](https://www.codewars.com/users/Dsm5e/badges/small)
+
+
+
 ### Contact With Me
 <div class="image-row">
   <a href="mailto:dsm5e@icloud.com">
