@@ -25,6 +25,7 @@ Application for business process optimization
 ### Courses/books
 - [100 days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
 - [100 days of Swift (UIKit)](https://www.hackingwithswift.com/100)
+- [Swiftful Thinking Bootcamp](https://www.youtube.com/c/swiftfulthinking)
 - [Ian Solomein SwiftUI Basics](https://www.youtube.com/playlist?list=PLUb9K99oQb2t7TIFVQbht6KxWvJApvRu4)
 
 ### My Stats
