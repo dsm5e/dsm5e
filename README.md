@@ -3,14 +3,6 @@
 - Interested in work as a developer where i can use experience and skills to create apps.
 - work hard play hard.
 
-## Work experience
-### [SPIN4SPIN](https://spin4spin.com/) - 19.11.22-present
-#### iOS Developer, Part-time, Remote
-Application for business process optimization
-#### Stack
- - SwitUI
- - Combine
-
 ## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=swift,firebase,figma,aftereffects&perline=4)](https://skillicons.dev)
