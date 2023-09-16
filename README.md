@@ -6,11 +6,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=swift,firebase,figma,aftereffects&perline=4)](https://skillicons.dev)
 
-### Courses/books
-- [100 days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
-- [Swiftful Thinking Bootcamp](https://www.youtube.com/c/swiftfulthinking)
-- [Ian Solomein SwiftUI Basics](https://www.youtube.com/playlist?list=PLUb9K99oQb2t7TIFVQbht6KxWvJApvRu4)
-
 ### My Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsm5e)](https://github.com/anuraghazra/github-readme-stats)
 
