@@ -1,5 +1,5 @@
 ## Hello👋, my name is Vladislav
-### And i am a IOS Developer and Photographer 🐼
+### And i am a IOS Developer 🐼
 - work hard play hard.
 
 ## Skills
