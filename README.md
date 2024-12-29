@@ -6,11 +6,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=swift,firebase,figma,aftereffects&perline=4)](https://skillicons.dev)
 
-### My Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsm5e)](https://github.com/anuraghazra/github-readme-stats)
-
-![Codewars](https://www.codewars.com/users/Dsm5e/badges/small)
-
 
 <div>
   <a href="https://www.buymeacoffee.com/dsm5e" target="_blank">
