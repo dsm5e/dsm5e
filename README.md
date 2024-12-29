@@ -4,7 +4,7 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=swift,firebase,figma,aftereffects&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,firebase,figma,aftereffects,kotlin,vscode,&perline=4)](https://skillicons.dev)
 
 
 <div>
